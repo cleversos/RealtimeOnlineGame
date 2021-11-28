@@ -1,152 +1,31 @@
-Contribution: 2019-03-24 20:00
+Realtime Multiplayer In HTML5
+=============================
 
-Contribution: 2019-03-26 20:00
+Read the article here : 
+http://buildnewgames.com/real-time-multiplayer/
 
-Contribution: 2019-03-28 20:00
+View the demo here :
+http://notes.underscorediscovery.com:4004/?debug
 
-Contribution: 2019-03-28 20:01
+An example using node.js, socket.io and HTML5 Canvas to explain and demonstrate realtime multiplayer games in the browser.
 
-Contribution: 2019-03-28 20:02
+## Getting started (Using npm package.json)
+* Get node.js
+* run `npm install` inside the cloned folder
+* run `node app.js` inside the cloned folder
+* Visit http://127.0.0.1:4004/?debug
 
-Contribution: 2019-03-29 20:00
+## Getting started (Manual install)
 
-Contribution: 2019-03-29 20:01
+* Get node.js
+* Install socket.io `npm install socket.io`
+* Install node-udid `npm install node-uuid`
+* Install express `npm install express`
+* Run `node app.js` inside the cloned folder
+* Visit http://127.0.0.1:4004/?debug
 
-Contribution: 2019-03-31 20:00
+## License
 
-Contribution: 2019-03-31 20:01
-
-Contribution: 2019-04-04 20:00
-
-Contribution: 2019-04-05 20:00
-
-Contribution: 2019-04-05 20:01
-
-Contribution: 2019-04-05 20:02
-
-Contribution: 2019-04-11 20:00
-
-Contribution: 2019-04-11 20:01
-
-Contribution: 2019-04-12 20:00
-
-Contribution: 2019-04-16 20:00
-
-Contribution: 2019-04-16 20:01
-
-Contribution: 2019-04-16 20:02
-
-Contribution: 2019-04-19 20:00
-
-Contribution: 2019-04-20 20:00
-
-Contribution: 2019-04-22 20:00
-
-Contribution: 2019-04-22 20:01
-
-Contribution: 2019-04-22 20:02
-
-Contribution: 2019-04-23 20:00
-
-Contribution: 2019-04-23 20:01
-
-Contribution: 2019-04-24 20:00
-
-Contribution: 2019-04-24 20:01
-
-Contribution: 2019-04-24 20:02
-
-Contribution: 2019-04-26 20:00
-
-Contribution: 2019-04-26 20:01
-
-Contribution: 2019-04-29 20:00
-
-Contribution: 2019-04-30 20:00
-
-Contribution: 2019-05-02 20:00
-
-Contribution: 2019-05-02 20:01
-
-Contribution: 2019-05-03 20:00
-
-Contribution: 2019-05-03 20:01
-
-Contribution: 2019-05-08 20:00
-
-Contribution: 2019-05-11 20:00
-
-Contribution: 2019-05-12 20:00
-
-Contribution: 2019-05-12 20:01
-
-Contribution: 2019-05-12 20:02
-
-Contribution: 2019-05-13 20:00
-
-Contribution: 2019-05-13 20:01
-
-Contribution: 2019-05-13 20:02
-
-Contribution: 2019-05-14 20:00
-
-Contribution: 2019-05-15 20:00
-
-Contribution: 2019-05-15 20:01
-
-Contribution: 2019-05-16 20:00
-
-Contribution: 2019-05-20 20:00
-
-Contribution: 2019-05-21 20:00
-
-Contribution: 2019-05-22 20:00
-
-Contribution: 2019-05-23 20:00
-
-Contribution: 2019-05-23 20:01
-
-Contribution: 2019-05-25 20:00
-
-Contribution: 2019-05-25 20:01
-
-Contribution: 2019-05-26 20:00
-
-Contribution: 2019-05-29 20:00
-
-Contribution: 2019-05-29 20:01
-
-Contribution: 2019-05-29 20:02
-
-Contribution: 2019-06-01 20:00
-
-Contribution: 2019-06-01 20:01
-
-Contribution: 2019-06-01 20:02
-
-Contribution: 2019-06-02 20:00
-
-Contribution: 2019-06-02 20:01
-
-Contribution: 2019-06-02 20:02
-
-Contribution: 2019-06-05 20:00
-
-Contribution: 2019-06-05 20:01
-
-Contribution: 2019-06-05 20:02
-
-Contribution: 2019-06-06 20:00
-
-Contribution: 2019-06-06 20:01
-
-Contribution: 2019-06-06 20:02
-
-Contribution: 2019-06-08 20:00
-
-Contribution: 2019-06-08 20:01
-
-Contribution: 2019-06-10 20:00
-
-Contribution: 2019-06-11 20:00
+MIT Licensed. 
+See LICENSE if required.
 
